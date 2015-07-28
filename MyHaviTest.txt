@@ -7,3 +7,7 @@ This was created in view of the team conflicts resolving.
 Thank you.
 
 New change for commiting from local to remote.
+
+Committing the changes to develop branch.
+
+Contributor commit to develop branch for testing.
