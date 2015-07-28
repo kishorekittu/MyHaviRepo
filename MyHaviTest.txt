@@ -5,3 +5,5 @@ I have created this file as a test file.
 This was created in view of the team conflicts resolving.
 
 Thank you.
+
+New change for commiting from local to remote.
